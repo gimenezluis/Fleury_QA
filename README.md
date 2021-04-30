@@ -13,11 +13,13 @@ pip install behave
 pip install allure-behave
 <br>
 chromedriver -na versao atual do navegador
+
 # Comando para rodar aplicação:
 <br>
 behave -f allure_behave.formatter:AllureFormatter -o testes-report features/fleury_qa
 <br>
 testes configurados para rodar em headless
+
 # Comando para gerar relatorio no servidor allure
 <br>
 allure serve C:\\Fleury_QA\testes-report
