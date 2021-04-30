@@ -24,3 +24,4 @@ testes configurados para rodar em headless
 <br>
 allure serve C:\\Fleury_QA\testes-report
 <br>
+![image](https://user-images.githubusercontent.com/25842472/116644072-ce5ef080-a948-11eb-8746-0af94e8de91a.png)
